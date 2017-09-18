@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+section#conteudo {
+    width: 1000px;
+    margin: auto;
+
+}
+
+section#conteudo img{
+    max-width: 430px;
+    max-height: 500px;
+
+}
+
+iframe#iframe-spec {
+    width: 350px;
+    height: 280px;
+    border: none;
+}
+
