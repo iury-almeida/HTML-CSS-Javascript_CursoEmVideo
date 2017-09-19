@@ -244,3 +244,12 @@ header#cabecalho-artigo h3 {
     font-size: 12pt;
     color: #606060;
 }
+
+video#video-01 {
+    width: 380px;
+}
+
+video#video-02 {
+    width: 365px;
+
+}
